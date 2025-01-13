@@ -1,5 +1,1 @@
-﻿
-
-
-> Written with [StackEdit](https://stackedit.io/).
-> sdfhhdgfhgdhfghdsgf
+This is the project for git course on wexler.io
